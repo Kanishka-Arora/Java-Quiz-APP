@@ -68,8 +68,8 @@ javac -version
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/<your-friend-username>/<repo-name>.git
-cd <repo-name>
+https://github.com/Kanishka-Arora/Java-Quiz-APP.git
+cd Java-Quiz-APP
 ```
 
 ### 🔨 Compile and Run
